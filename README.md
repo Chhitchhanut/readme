@@ -71,3 +71,6 @@ CSS framwork [Tailwincss](https://tailwindcss.com/)
 # dashboard
 
 ![dasboard](image.png)
+
+# badge
+[![Button](https://img.shields.io/badge/Visit-Website-blue)](https://tailwindcss.com/)
