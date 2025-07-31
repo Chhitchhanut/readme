@@ -68,3 +68,6 @@ header{
 
 CSS framwork [Tailwincss](https://tailwindcss.com/)
 
+# dashboard
+
+![dasboard](image.png)
