@@ -60,3 +60,6 @@ header{
 }
 ```
 
+# check list
+- [ ] Home page
+- [x] Contact
